@@ -19,4 +19,4 @@ base on
 
 ### 赞赏
 
-![image](appreciate.jpeg)
+![image](./appreciate.jpeg)
